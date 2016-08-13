@@ -1,0 +1,8 @@
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\bin\Debug\FileSync.exe
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\bin\Debug\FileSync.pdb
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\bin\Debug\TcpComm.dll
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\obj\Debug\FileSync.frmMain.resources
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\obj\Debug\FileSync.Properties.Resources.resources
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\obj\Debug\FileSync.csproj.GenerateResource.Cache
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\obj\Debug\FileSync.exe
+C:\Users\peted\Documents\Visual Studio 2010\Projects\FileSync\FileSync\obj\Debug\FileSync.pdb
